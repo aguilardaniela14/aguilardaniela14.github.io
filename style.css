@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: #b6f3f9;
 }
 
 .navbar-collapse {
@@ -25,13 +25,13 @@ h1 {
 }
 
 .seccion-oscura {
-  color: #5b384b;
-  background-color: #f5a99b;
+  color: #310b0a;
+  background-color: #f4a696;
 }
 
 .seccion-clara {
-  color: black;
-  background-color: white;
+  color: #124454;
+  background-color: #ffdbc9;
 }
 
 .seccion-titulo {
@@ -43,7 +43,7 @@ h1 {
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color: #584e4e;
+  color: #474963;
 }
 
 .seccion-texto {
@@ -369,7 +369,7 @@ footer {
 
 .derechos-de-autor {
   font-size: 15px;
-  color: #aeaeae;
+  color: #55231d;
   padding: 20px;
 }
 
